@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+.ims{
+    margin: 2%;
+    margin-left: 40%;
+    width: 17%;
+}
+/* body {
+    background-color: ;
+
+
+} */
+/* index.php */
+#title {
+    margin: 1%;
+    text-align: center;
+    color: #5f7c9c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    margin: 2%;
+    text-align: center;
+}
+
+.form-action {
+    border: none;
+    outline: none;
+    width: 50%;
+    padding: 1%;
+    border-radius: 30px;
+    box-shadow: black 0px 0px 3px;
+}
+
+.vd {
+    padding: 1%;
+    border-radius: 30px;
+    background: linear-gradient(135deg, rgb(41, 40, 40), rgb(75, 75, 167));
+    color: whitesmoke;
+}
+
+.suggestions {
+    margin-left: 21%;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    color:#072445;
+    
+
+
+}
+
+#tt {
+    margin: 1.7%;
+    display: flex;
+    flex-direction: column;
+    background-color:white ;
+    box-shadow: black 0px 0px 3px;
+    width: 100%;
+    border-radius: 30px;
+    color: black;
+   
+}
+/* endndex.php */
+ul{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    
+}
+/* script.js */
+
+.te{
+    text-decoration: none;
+    color: black;
+}
+.te2{
+    text-decoration: none;
+    color: black;
+}
+
+.te :hover{
+    background-color: rgba(0, 0, 255, 0.027);
+    margin-right: 4%;
+    
+   
+}
+/* element.php */
+
+.mssg {
+
+    margin: 3%;
+    color: #072445;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: black 0px 0px 3px;
+    padding: 10%;
+    
+    
+}
+
+.mssg,
+h3 {
+    text-align: center;
+}
+
+.ms{
+    margin: 3%;
+    color: #072445;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: black 0px 0px 3px;
+    padding: 5%;
+}
+P{
+    font-size:4vh ;
+}
